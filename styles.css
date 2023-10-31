@@ -7,5 +7,6 @@ p {
 }
 
 #header {
-    color: red;
+    color: hsla(162, 71%, 22%, 0.761);
+    background-color: rgb(233, 213, 183);
 }
